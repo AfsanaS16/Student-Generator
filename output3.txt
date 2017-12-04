@@ -1,0 +1,91 @@
+GPA: 3.8
+CUNY ID: 766127589
+Student Name: Vietor Mel
+GPA: 3.8
+CUNY ID: 171914664
+Student Name: Jason Cherry
+GPA: 2.3
+CUNY ID: 180314764
+Student Name: Lirk Sabrina
+GPA: 1.6
+CUNY ID: 246869547
+Student Name: Joye Ramirez
+GPA: 3.4
+CUNY ID: 486266568
+Student Name: Jason Cherry
+GPA: 3.4
+CUNY ID: 271372529
+Student Name: Joye Ramirez
+GPA: 1.6
+CUNY ID: 298858955
+Student Name: Andy Mou
+GPA: 0.4
+CUNY ID: 332346227
+Student Name: James Brandon
+GPA: 1.9
+CUNY ID: 231040469
+Student Name: christian Adnan
+GPA: 2.6
+CUNY ID: 346552787
+Student Name: Lirk Sabrina
+GPA: 2.1
+CUNY ID: 831676757
+Student Name: Joye Ramirez
+GPA: 0.2
+CUNY ID: 751173472
+Student Name: Andy Mou
+GPA: 2.6
+CUNY ID: 6024599
+Student Name: Farnanda  Sharuk
+GPA: 0.7
+CUNY ID: 477999819
+Student Name: Farnanda  Sharuk
+GPA: 1.8
+CUNY ID: 879298605
+Student Name: christian Adnan
+GPA: 3.8
+CUNY ID: 389849028
+Student Name: Farnanda  Sharuk
+GPA: 1.1
+CUNY ID: 540054992
+Student Name: Jimmy Obama
+GPA: 3.3
+CUNY ID: 313050832
+Student Name: Vietor Mel
+GPA: 0.3
+CUNY ID: 390037895
+Student Name: Vietor Mel
+GPA: 2.2
+CUNY ID: 934469225
+Student Name: Jimmy Obama
+GPA: 3.8
+CUNY ID: 736377676
+Student Name: Farnanda  Sharuk
+GPA: 3.9
+CUNY ID: 505874088
+Student Name: Kyle Garry
+GPA: 3.5
+CUNY ID: 268138491
+Student Name: James Brandon
+GPA: 1.2
+CUNY ID: 169788126
+Student Name: Jose Anik
+GPA: 3.3
+CUNY ID: 561596503
+Student Name: Andy Mou
+GPA: 2.2
+CUNY ID: 993308380
+Student Name: Lirk Sabrina
+GPA: 2.0
+CUNY ID: 328579868
+Student Name: James Brandon
+GPA: 3.8
+CUNY ID: 470812830
+Student Name: Lirk Sabrina
+GPA: 2.2
+CUNY ID: 752882138
+Student Name: James Brandon
+GPA: 0.4
+CUNY ID: 380764975
+Student Name: Vietor Mel
+GPA: 1.5
